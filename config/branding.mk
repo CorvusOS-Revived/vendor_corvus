@@ -1,7 +1,7 @@
 # Set all versions
 RAVEN_LAIR ?= Unofficial
-CORVUS_VERSION_BASE := 17.1
-CORVUS_CODENAME := Infernexium
+CORVUS_VERSION_BASE := 17.2
+CORVUS_CODENAME := Stygius
 
 # Set all versions
 BUILD_DATE := $(shell date -u +%d%m%Y)
